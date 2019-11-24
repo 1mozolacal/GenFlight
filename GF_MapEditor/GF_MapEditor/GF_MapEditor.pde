@@ -1,6 +1,13 @@
-//Map editor/creator
+//Map editor/creator by Calvin Mozola
+//Note: if you want to load a file then make a config.txt file with the name of the map
 
-//if loading a map file to edit
+
+//TODO
+//make a little pop up that will auto goway if load file name is wrong
+//make text appear when it loads a map that says "loading map..<name>" that disappears later
+//make a promt that asks if the person want to save when 'g' is hit
+
+//if loading a map file to edit(via code)
 boolean loadFile = false;
 String loadfileName;//can be full name or just your name ex (GFMapNAME.txt or NAME)
 
